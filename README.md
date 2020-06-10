@@ -2,6 +2,6 @@
 HackerRank Java Practice Solutions
 
 ## Topics
-<ul>
-<li> Java Output Formatting </li>
-</ul>
+* Java Output Formatting 
+* Generics
+* Queues and Stacks
