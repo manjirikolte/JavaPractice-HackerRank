@@ -1,5 +1,5 @@
 # JavaPractice-HackerRank
-HackerRank Java Practice Solutions
+HackerRank Java Practice Solutions of 30 days challenge
 
 ## Topics
 * Java Output Formatting 
