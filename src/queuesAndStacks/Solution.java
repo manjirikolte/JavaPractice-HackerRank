@@ -1,5 +1,16 @@
 package queuesAndStacks;
 
+/*
+ * Given Task	
+ * 
+ * Two instance variables: one for your stack, and one for your queue.
+ *	A void pushCharacter(char ch) method that pushes a character onto a stack.
+ *	A void enqueueCharacter(char ch) method that enqueues a character in the queue instance variable.
+ *	A char popCharacter() method that pops and returns the character at the top of the stack instance variable.
+ *	A char dequeueCharacter() method that dequeues and returns the first character in the queue instance variable.
+ *
+ */
+
 import java.io.*;
 import java.util.*;
 
@@ -56,13 +67,4 @@ public class Solution {
     }
 }
 
- /*
-  * Given Task	
-  * 
-  * Two instance variables: one for your stack, and one for your queue.
-  *	A void pushCharacter(char ch) method that pushes a character onto a stack.
-  *	A void enqueueCharacter(char ch) method that enqueues a character in the queue instance variable.
-  *	A char popCharacter() method that pops and returns the character at the top of the stack instance variable.
-  *	A char dequeueCharacter() method that dequeues and returns the first character in the queue instance variable.
-  *
-  */
+
