@@ -1,7 +1,7 @@
 # JavaPractice-HackerRank
-HackerRank Java Practice Solutions
+HackerRank Java Practice Solutions of 30 days challenge
 
 ## Topics
-<ul>
-<li> Java Output Formatting </li>
-</ul>
+* Java Output Formatting 
+* Generics
+* Queues and Stacks
