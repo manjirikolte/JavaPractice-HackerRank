@@ -5,3 +5,4 @@ HackerRank Java Practice Solutions of 30 days challenge
 * Java Output Formatting 
 * Generics
 * Queues and Stacks
+* class vs. instance
