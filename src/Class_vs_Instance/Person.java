@@ -1,5 +1,15 @@
 package Class_vs_Instance;
 
+/*
+ * Sample Input
+ * 4
+ * -1
+ * 10
+ * 16
+ * 18
+ * 
+ */
+
 import java.io.*;
 import java.util.*;
 
@@ -13,9 +23,7 @@ public class Person {
               System.out.println("Age is not valid, setting age to 0.");
           }else{    
               age = initialAge;
-               }
-   
-
+               } 
 	}
 
 	public void amIOld() {
@@ -52,3 +60,21 @@ public class Person {
 		sc.close();
     }
 }
+
+/*
+Sample Output
+
+Age is not valid, setting age to 0.
+You are young.
+You are young.
+
+You are young.
+You are a teenager.
+
+You are a teenager.
+You are old.
+
+You are old.
+You are old.
+
+*/
