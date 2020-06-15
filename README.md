@@ -1,5 +1,11 @@
 # JavaPractice-HackerRank
-HackerRank Java Practice Solutions of 30 days challenge
+HackerRank Java Practice Solutions of <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code"> 30 Days of Code</a> Challenge.
+
+
+## Getting Started
+ Clone or download or Copy
+ Build and Run
+ 
 
 ## Topics
 * Day 0: <a href="https://github.com/manjirikolte/JavaPractice-HackerRank/blob/master/src/Hello_World/Solution.java">Hello world</a>
