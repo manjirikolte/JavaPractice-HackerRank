@@ -1,8 +1,18 @@
 package Operators;
 
+/*
+ * Sample Input
+ * 12.00
+ * 20
+ * 8
+ * 
+ * Sample Output
+ * 15
+ * 
+ */
+
 
 import java.util.*;
-
 
 public class Solution {
 
