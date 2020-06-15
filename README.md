@@ -3,8 +3,8 @@ HackerRank Java Practice Solutions of <a href="https://www.hackerrank.com/domain
 
 
 ## Getting Started
- Clone or download or Copy
- Build and Run
+  Clone or download or Copy<BR>
+  Build and Run
  
 
 ## Topics
